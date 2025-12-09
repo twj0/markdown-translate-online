@@ -1,0 +1,5 @@
+{
+  "name": "MarkFlow Translator",
+  "description": "A lightweight, professional Markdown translator. Bidirectional English-Chinese translation while strictly preserving Markdown syntax and formatting.",
+  "requestFramePermissions": []
+}
